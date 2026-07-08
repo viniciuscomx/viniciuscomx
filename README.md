@@ -32,7 +32,3 @@ Aqui você encontrará projetos relacionados a:
 - Testes de API
 - Estudos em QA
 - Projetos para prática e aprendizado
-
-## Contato
-
-- LinkedIn: seu-linkedin
